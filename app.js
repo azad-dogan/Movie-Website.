@@ -2,8 +2,7 @@
 const API_URL = `https://api.themoviedb.org/3/movie/popular?api_key=9a4e36e2f6a7344fdbac25950248aaf2&language=tr-TR`;
 
 const IMG_PATH = "https://image.tmdb.org/t/p/w1280";
-const SEARCH_API =
-    "https://api.themoviedb.org/3/search/movie?api_key=9a4e36e2f6a7344fdbac25950248aaf2&language=tr-TR&query=";
+
 
 const form = document.getElementById("form");
 const search = document.getElementById("search");
